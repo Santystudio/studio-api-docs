@@ -1,0 +1,8 @@
+{
+  "wallet_id": "wallet_abc123",
+  "amount": "250.00",
+  "currency": "USDC",
+  "destination": "0xA1B2C3D4E5F6",
+  "note": "Studio onboarding bonus",
+  "timestamp": "2025-08-18T17:46:00Z"
+}
