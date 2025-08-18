@@ -1,0 +1,9 @@
+{
+  "user_id": "user_001",
+  "wallet_type": "multi-sig",
+  "metadata": {
+    "created_by": "Santy Studio",
+    "purpose": "Demo wallet for onboarding flow",
+    "timestamp": "2025-08-18T17:45:00Z"
+  }
+}
