@@ -19,9 +19,7 @@ Each sample is designed to deliver clarity, modularity, and emotional resonance 
 **Deliverables**: Interactive doc, endpoint breakdown, compliance notes  
 **Impact**: Improved dev adoption and reduced integration errors
 
-## 🧠 Why This Repo Matters
 
-These samples aren’t just documentation—they’re **systems of understanding**.  
 Each piece is built to reduce cognitive load, accelerate onboarding, and make the product feel premium.
 
 
