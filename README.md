@@ -3,7 +3,7 @@
 Welcome to `studio-api-docs` — a curated collection of API documentation samples crafted for SaaS, Web3, and compliance-driven platforms.  
 Each sample is designed to deliver clarity, modularity, and emotional resonance for developers, stakeholders, and end-users.
 
-## 🧩 Sample 1: Fintech Onboarding API
+## 🧩 Work 1: Fintech Onboarding API
 
 **Client Type**: B2B SaaS (Fintech)  
 **Goal**: Reduce developer onboarding time by 40%  
@@ -11,7 +11,7 @@ Each sample is designed to deliver clarity, modularity, and emotional resonance 
 **Deliverables**: Branded PDF, Notion walkthrough, code samples  
 **Impact**: Cut support tickets by 30%
 
-## 🧩 Sample 2: Web3 Wallet API
+## 🧩 Work 2: Web3 Wallet API
 
 **Client Type**: Web3 Infrastructure  
 **Goal**: Simplify authentication and transaction flows  
