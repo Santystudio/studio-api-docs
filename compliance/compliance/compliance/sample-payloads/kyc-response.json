@@ -1,0 +1,30 @@
+{
+  "kycStatus": "verified",
+  "verificationDate": "2025-08-24T13:45:00Z",
+  "user": {
+    "id": "USR-908172",
+    "fullName": "John Abraham",
+    "dob": "1990-04-12",
+    "nationality": "US",
+    "documentType": "passport",
+    "documentNumber": "X1234567",
+    "documentExpiry": "2030-04-12"
+  },
+  "address": {
+    "street": "42 Elmwood Drive",
+    "city": "Portland",
+    "state": "Oregon",
+    "postalCode": "97201",
+    "country": "US"
+  },
+  "complianceFlags": {
+    "pep": false,
+    "sanctionsList": false,
+    "documentMismatch": false
+  },
+  "review": {
+    "reviewedBy": "ComplianceBot v3.2",
+    "reviewTimestamp": "2025-08-24T13:50:00Z",
+    "notes": "All fields validated against external KYC provider. No anomalies detected."
+  }
+}
